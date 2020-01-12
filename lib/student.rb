@@ -5,8 +5,8 @@ def initialize
   @knowledge = [] 
 end 
 
-# def knowledge 
-#   @knowledge << 
+def knowledge 
+  @knowledge << 
 
 
 end
